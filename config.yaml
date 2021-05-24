@@ -28,7 +28,7 @@ Params:
   mdTagline: "# A week of talks on working with open principles\n## 14-18th June 2021"
   favicon: "favicon.png"
 
-  opengraphImage: "/images/osprey-delight.png"
+  opengraphImage: "/homelogo-300.png"
 
   # enforceSinglePage will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'. This file will contain only a redirect directive if this switch is enabled.
