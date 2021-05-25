@@ -11,6 +11,6 @@ We aim to bring the discussion around Open Source *practices* - that
 is, the collaboration across organisations to achieve bigger things - to a new
 audience.
 
-We've some fantastic speakers lined up from public, private, and academic
+We've some fantastic speakers lined up from public, private, charity and academic
 sectors to talk about what being "open" means to them, and how it improves
 their world.
