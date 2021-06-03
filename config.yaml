@@ -90,7 +90,7 @@ Menu:
       url: "/#schedule"
       identifier: schedule
       weight: 3
-    - name: "Code of Conduct"
+    - name: "Conduct"
       url: "/#coc"
       identifier: coc
       weight: 4
