@@ -1,7 +1,8 @@
 ---
 weight: 5
 date: "2021-05-24"
-title: "David Calder - TBA"
+title: "David Calder"
+subtitle: "TBA"
 image: "david.jpeg"
 alt: "david.jpeg"
 color: "#263238"

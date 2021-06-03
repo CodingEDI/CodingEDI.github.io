@@ -1,7 +1,8 @@
 ---
 weight: 5
 date: "2021-05-24"
-title: "Saber Razmjooei - Making a business and a sense of place from open source"
+title: Saber Razmjooei
+subtitle: Making a business and a sense of place from open source
 image: "saber.png"
 alt: "saber.png"
 color: "#bbbbbb"
@@ -10,6 +11,8 @@ buttons:
     icon: home
     url: "https://www.lutraconsulting.co.uk/"
 ---
+
+### Making a business and a sense of place from open source
 
 Data is everywhere and without location, it is often difficult to make sense of
 it. With the free and open source [https://inputapp.io](https://inputapp.io)

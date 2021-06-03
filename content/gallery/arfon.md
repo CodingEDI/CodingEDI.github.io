@@ -1,7 +1,8 @@
 ---
 weight: 1
 date: "2021-05-24"
-title: "Arfon Smith - Journal of Open Source: Where Open Source meets academic peer review"
+title: "Arfon Smith"
+subtitle: "Journal of Open Source: Where Open Source meets academic peer review"
 image: "arfon.jpg"
 alt: "arfon.jpg"
 color: "#bbbbbb"
@@ -13,6 +14,8 @@ buttons:
     i18n: twitter
     url: "https://twitter.com/arfon"
 ---
+
+### Journal of Open Source: Where Open Source meets academic peer review
 
 I’m a Staff Product Manager for Data at GitHub, supporting the work of our
 data science and data engineering teams. Previously, I founded and led the Data

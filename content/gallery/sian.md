@@ -1,7 +1,8 @@
 ---
 weight: 3
 date: "2021-05-24"
-title: "Sian Basker - TBA"
+title: Sian Basker
+subtitle: TBA
 image: "sian.jpg"
 alt: "sian.jpg"
 color: "#bbbbbb"

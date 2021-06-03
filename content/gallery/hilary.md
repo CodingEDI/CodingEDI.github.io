@@ -1,7 +1,8 @@
 ---
 weight: 1
 date: "2021-05-24"
-title: "Hillary Juma - TBA"
+title: "Hillary Juma"
+subtitle: TBA
 image: "hillary.jpeg"
 alt: "hillary.jpeg"
 color: "#263238"

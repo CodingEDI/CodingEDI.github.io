@@ -1,7 +1,8 @@
 ---
-weight: 5
+weight: 6
 date: "2021-05-24"
-title: "John A Stevenson - The benefits of engineering national data infrastructure with open source"
+title: John A Stevenson
+subtitle: The benefits of engineering national data infrastructure with open source
 image: "john.jpg"
 alt: "john.jpg"
 color: "#263238"
@@ -10,6 +11,8 @@ buttons:
     i18n: twitter
     url: "https://twitter.com/volcan01010"
 ---
+
+### The benefits of engineering national data infrastructure with open source
 
 Software developer + postdoc geologist tweeting volcanoes, Iceland, GIS & open
 source science software. Into climbing, mountain-biking, exploring. Husband,
