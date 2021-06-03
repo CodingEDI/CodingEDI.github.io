@@ -30,4 +30,5 @@ and emerging technologies for data management, processing, analytics, and
 visualization.
 
 *[PyData Edinburgh](https://www.meetup.com/PyData-Edinburgh/)* is convened by
-*[Martina](tba)* and *[Sam](tba)*.
+*[Martina](https://twitter.com/m_letitbe)*, *[Sam](https://twitter.com/lilacpatsy)*,
+and *[Nick](https://twitter.com/njr0)*.
