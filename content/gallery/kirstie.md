@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 2
 date: "2021-05-24"
 title: "Kirstie Whitaker - The Turing Way: Empowering researchers in reproducible, ethical, inclusive and collaborative science"
 image: "kirstie.jpg"

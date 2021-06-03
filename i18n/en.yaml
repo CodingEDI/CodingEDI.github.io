@@ -8,5 +8,7 @@ project:
   other: Project
 twitter:
   other: Twitter
+github:
+  other: GitHub
 website:
   other: Website
