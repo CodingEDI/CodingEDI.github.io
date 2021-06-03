@@ -25,7 +25,7 @@ Params:
 
   # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
   #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
-  mdTagline: "# A week of lunchtime talks on working with open principles\n## 1-2pm BST, 14-18th June, 2021\n\nWant to know more? Come and *[chat with us on Matrix](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org)!* or *[sign up on Meetup](https://meetup.com/EdinbR/events/278595242)*"
+  mdTagline: "# A week of lunchtime talks on working with open principles\n## 1-2pm BST, 14-18th June, 2021\n\nWant to know more? Come and *[chat with us on Matrix](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org)* or *[sign up on Meetup](https://meetup.com/EdinbR/events/278595242)*!"
   favicon: "favicon.png"
 
   opengraphImage: "/homelogo-300.png"
