@@ -23,3 +23,5 @@ Science Mission Office at STScI in Baltimore – the home of Hubble Space
 Telescope and other flagship NASA science missions. For those of you paying
 attention, you might have noticed that I was at GitHub once before (2013–2016),
 helping to bring open source to academia.
+
+- [JOSS](https://joss.theoj.org/)

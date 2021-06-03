@@ -51,3 +51,10 @@ with her collaborator Petra Vertes, as a [2016 Global
 Thinker](https://2016globalthinkers.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker)
 by Foreign Policy magazine. You can follow her and her dog's adventures on
 Twitter [@kirstie_j](https://twitter.com/kirstie_j).
+
+* The book: https://the-turing-way.netlify.com
+* Github repository: https://github.com/alan-turing-institute/the-turing-way
+* Commuity co-working calls: https://the-turing-way.netlify.app/community-handbook/coworking.html
+* Slack: https://tinyurl.com/jointuringwayslack
+* Twitter: https://twitter.com/turingway
+* Mailing list: https://tinyletter.com/TuringWay
