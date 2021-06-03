@@ -90,7 +90,11 @@ Menu:
       url: "/#schedule"
       identifier: schedule
       weight: 3
+    - name: "Organisers"
+      url: "/#organisers"
+      identifier: organiser
+      weight: 4
     - name: "Conduct"
       url: "/#coc"
       identifier: coc
-      weight: 4
+      weight: 5
