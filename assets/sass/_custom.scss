@@ -82,3 +82,15 @@
 /* GenericUnderline */ .chroma .gl {  }
 /* TextWhitespace */ .chroma .w {  }
 a { text-decoration: underline ; font-weight: bold }
+.centertable > table {
+  margin-left: auto;
+  margin-right: auto;
+  td {
+    padding: 5px; 
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  th { background-color: #f2f2f2; }
+  tr:nth-child(odd) { background-color: #e2e2e2; }
+  tr:nth-child(even) { background-color: #f2f2f2; }
+}

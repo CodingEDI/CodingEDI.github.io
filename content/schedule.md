@@ -4,6 +4,19 @@ date: 2021-05-24T21:33:26+01:00
 draft: false
 ---
 
-To be announced - stay tuned! We'll have all the details for you very soon.
+<div class='centertable'>
+
+|**Date**|**Speaker 1**|**Speaker 2**|
+|:---:|:---:|:---:|
+|Mon 14th|[Kirstie Whitaker](/#kirstie) <br> The Alan Turing Institute|[Saber Razmjooei](/#saber) <br> Lutra Consulting |
+|Tue 15th|[John A Stevenson](/#john) <br> British Geological Survey |TBA |
+|Wed 16th|[Arfon Smith](/#arfon) <br> Github / JOSS |TBA |
+|Thu 17th|[Sian Basker](/#sian) <br> Data Orchard |TBA |
+|Fri 18th|To be decided            | Join our [Matrix chat](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org) to help us decide |
+
+</div>
+
+<br>
 
 The event will be hosted on BlueJeans (courtesy of Red Hat) and you can [sign up on Meetup](https://meetup.com/EdinbR/events/278595242).
+
