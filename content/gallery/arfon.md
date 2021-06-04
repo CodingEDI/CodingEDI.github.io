@@ -17,6 +17,8 @@ buttons:
 
 ### Journal of Open Source: Where Open Source meets academic peer review
 
+### About Arfon
+
 I’m a Staff Product Manager for Data at GitHub, supporting the work of our
 data science and data engineering teams. Previously, I founded and led the Data
 Science Mission Office at STScI in Baltimore – the home of Hubble Space
@@ -24,4 +26,6 @@ Telescope and other flagship NASA science missions. For those of you paying
 attention, you might have noticed that I was at GitHub once before (2013–2016),
 helping to bring open source to academia.
 
-- [JOSS](https://joss.theoj.org/)
+### Links
+
+- https://joss.theoj.org/

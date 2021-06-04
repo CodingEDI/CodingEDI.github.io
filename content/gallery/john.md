@@ -14,10 +14,14 @@ buttons:
 
 ### Going open is a process, not an event
 
+### About John
+
 Software developer + postdoc geologist tweeting volcanoes, Iceland, GIS & open
 source science software. Into climbing, mountain-biking, exploring. Husband,
 dad.
 
-* ETL Helper: https://pypi.org/project/etlhelper/
-* BGS GitHub: https://github.com/BritishGeologicalSurvey
-* UKGEOS Glasgow (will feature in talk): https://ukgeos.ac.uk/observatories/glasgow
+### Links
+
+- ETL Helper: https://pypi.org/project/etlhelper/
+- BGS GitHub: https://github.com/BritishGeologicalSurvey
+- UKGEOS Glasgow (will feature in talk): https://ukgeos.ac.uk/observatories/glasgow

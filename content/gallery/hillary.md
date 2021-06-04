@@ -15,7 +15,9 @@ buttons:
     url: "https://twitter.com/HillaryJuma_"
 ---
 
-Bio: Hillary (she/her) is Community Manager, [Common Voice
+### About Hillary
+
+Hillary (she/her) is Community Manager, [Common Voice
 Project](https://commonvoice.mozilla.org/en) at Mozilla Foundation. Previously,
 Hillary was Data Science Community and Engagement Manager, Office for National
 Statistics’ Data Science Campus. She enjoys creating space for community by

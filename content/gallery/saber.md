@@ -20,7 +20,7 @@ you can collect spatial data. The app is powered by QGIS software and allows
 you a seamless link between mobile and desktop. Synchronisation of the data
 between the devices and users is done using a git-like technology.
 
----
+### About Saber
 
 Saber Razmjooei is the Managing Director of [Lutra
 Consulting](http://www.lutraconsulting.co.uk/). Saber has been specialising in
@@ -33,4 +33,6 @@ planning and implementing migrations, training and ongoing commercial support.
 Lutra is a core contributor to the QGIS application: a popular open source
 software used widely in public and private sectors.
 
-* https://inputapp.io
+### Links
+
+- https://inputapp.io
