@@ -6,4 +6,4 @@ draft: false
 
 To be announced - stay tuned! We'll have all the details for you very soon.
 
-The event will be hosted on BlueJeans (courtesy of Red Hat) and you can *[sign up on Meetup](https://meetup.com/EdinbR/events/278595242)*.
+The event will be hosted on BlueJeans (courtesy of Red Hat) and you can [sign up on Meetup](https://meetup.com/EdinbR/events/278595242).
