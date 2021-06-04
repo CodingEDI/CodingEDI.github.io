@@ -82,13 +82,13 @@ Menu:
       identifier: about
       url: "/#about"
       weight: 1
-    - name: "Speakers"
-      identifier: gallery
-      url: "/#speakers"
-      weight: 2
     - name: "Schedule"
       url: "/#schedule"
       identifier: schedule
+      weight: 2
+    - name: "Speakers"
+      identifier: gallery
+      url: "/#speakers"
       weight: 3
     - name: "Organisers"
       url: "/#organisers"
@@ -98,3 +98,8 @@ Menu:
       url: "/#coc"
       identifier: coc
       weight: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
