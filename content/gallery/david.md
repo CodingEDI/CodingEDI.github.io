@@ -2,7 +2,7 @@
 weight: 5
 date: "2021-05-24"
 title: "David Calder"
-subtitle: Using open source software to develop Reproducible Analytical Pipelines to improve quality and trust in official statistics
+subtitle: Developing Reproducible Analytical Pipelines with open source software improves quality and trust in official statistics
 image: "david.jpeg"
 alt: "david.jpeg"
 color: "#263238"
@@ -12,7 +12,7 @@ buttons:
     url: "https://github.com/Public-Health-Scotland"
 ---
 
-### Using open source software to develop Reproducible Analytical Pipelines to improve quality and trust in official statistics
+### Developing Reproducible Analytical Pipelines with open source software improves quality and trust in official statistics
 
 Public Health Scotland is the primary producer of official statistics for the
 NHS in Scotland and has around 200 public releases of data each year.
