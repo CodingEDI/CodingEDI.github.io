@@ -18,7 +18,7 @@ buttons:
 ### Data Maturity – A Fruitful Journey for the Not-for-Profit Sector
 
 Data Orchard works collaboratively with others to build the data capabilities
-of the not-for-profit sector. Since 2015 they have researching data maturity
+of the not-for-profit sector. Since 2015 they have been researching the data maturity of organisations
 and openly sharing their knowledge and resources. Their free online data
 maturity assessment tool launched in October 2019 and has been used by hundreds
 of non-governmental, public sector, universities and commercial organisations.
