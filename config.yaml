@@ -40,7 +40,7 @@ Params:
 ## Social links in footer:
   Social:
   - type: info # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
-    url: "https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org"
+    url: "https://matrix.to/#/#codingedi:matrix.org"
 
 
 ## Theme features:
