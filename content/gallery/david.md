@@ -1,7 +1,7 @@
 ---
 weight: 5
 date: "2021-05-24"
-title: "David Calder"
+title: "David Caldwell"
 subtitle: Developing Reproducible Analytical Pipelines with open source software improves quality and trust in official statistics
 image: "david.jpeg"
 alt: "david.jpeg"
