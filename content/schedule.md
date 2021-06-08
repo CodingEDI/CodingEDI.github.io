@@ -9,10 +9,10 @@ draft: false
 |**Date**|**Speaker 1**|**Speaker 2**|
 |:---:|:---:|:---:|
 |Mon 14th|[Kirstie Whitaker](/#kirstie) <br> The Alan Turing Institute|[Saber Razmjooei](/#saber) <br> Lutra Consulting |
-|Tue 15th|[John A Stevenson](/#john) <br> British Geological Survey |TBA |
-|Wed 16th|[Arfon Smith](/#arfon) <br> Github / JOSS |TBA |
+|Tue 15th|[John A Stevenson](/#john) <br> British Geological Survey |[David Caldwell](/#david) |
+|Wed 16th|[Arfon Smith](/#arfon) <br> Github / JOSS |[Hillary Juma](/#hillary) |
 |Thu 17th|[Sian Basker](/#sian) <br> Data Orchard |TBA |
-|Fri 18th|To be decided            | Join our [Matrix chat](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org) to help us decide |
+|Fri 18th|To be decided            | Join our [Matrix chat](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org) to help us decide! |
 
 </div>
 
