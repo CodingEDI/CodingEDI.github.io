@@ -10,6 +10,9 @@ buttons:
   - i18n: github 
     icon: github
     url: "https://github.com/Public-Health-Scotland"
+  - i18n: slides
+    icon: menu
+    url: https://github.com/davidc92/edinbr-2021
 ---
 
 ### Developing Reproducible Analytical Pipelines with open source software improves quality and trust in official statistics

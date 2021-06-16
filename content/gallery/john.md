@@ -10,6 +10,9 @@ buttons:
   - icon: twitter
     i18n: twitter
     url: "https://twitter.com/volcan01010"
+  - i18n: slides
+    icon: menu
+    url: https://github.com/volcan01010/coding-in-the-open
 ---
 
 ### Going open is a process, not an event

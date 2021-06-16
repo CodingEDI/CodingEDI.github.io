@@ -13,6 +13,9 @@ buttons:
   - icon: twitter
     i18n: twitter
     url: "https://twitter.com/HillaryJuma_"
+  - i18n: slides
+    icon: menu
+    url: https://docs.google.com/presentation/d/e/2PACX-1vQ8qdCgHr4T7Y8AZnaYB3f-1xlpoLtcu5c7VtuompP1Ad5-XRhfITKVPqEtvY-kbL5RGM4RmXOwK8zB/pub?start=false&loop=false&delayms=3000#slide=id.p
 ---
 
 ### Curating community

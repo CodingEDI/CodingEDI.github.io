@@ -10,6 +10,9 @@ buttons:
   - i18n: website
     icon: home
     url: "https://www.lutraconsulting.co.uk/"
+  - i18n: slides
+    icon: menu
+    url: https://docs.google.com/presentation/d/13-4UCUAXCp_yXfE8VMcDAEyDUxDj5n03TIWwD57Clgo/edit?usp=sharing
 ---
 
 ### Making a business and a sense of place from open source

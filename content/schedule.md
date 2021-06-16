@@ -11,8 +11,8 @@ draft: false
 |Mon 14th|[Kirstie Whitaker](/#kirstie) <br> The Alan Turing Institute|[Saber Razmjooei](/#saber) <br> Lutra Consulting |
 |Tue 15th|[John A Stevenson](/#john) <br> British Geological Survey |[David Caldwell](/#david) <br> Public Health Scotland |
 |Wed 16th|[Arfon Smith](/#arfon) <br> Github / JOSS |[Hillary Juma](/#hillary) <br> Mozilla Foundation |
-|Thu 17th|[Sian Basker](/#sian) <br> Data Orchard |TBA |
-|Fri 18th|Something collaborative? | Join our [Matrix room](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org) to help us decide! |
+|Thu 17th|[Sian Basker](/#sian) <br> Data Orchard |[Session roundup](/coding-in-the-open_closing.pdf) & Friday planning <br> Mike Spencer & Greg Sutcliffe |
+|Fri 18th| Unconference session | Join our [Matrix room](https://matrix.to/#/!zXuezsmKutfOJtgTZv:matrix.org) to help us decide topics! |
 
 </div>
 

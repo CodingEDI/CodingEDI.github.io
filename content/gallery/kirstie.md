@@ -13,6 +13,9 @@ buttons:
   - icon: twitter
     i18n: twitter
     url: "https://twitter.com/kirstie_j"
+  - i18n: slides
+    icon: menu
+    url: http://doi.org/10.5281/zenodo.4944375
 ---
 
 ### The Turing Way: Empowering researchers in reproducible, ethical, inclusive and collaborative science
