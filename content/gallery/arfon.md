@@ -13,6 +13,9 @@ buttons:
   - icon: twitter
     i18n: twitter
     url: "https://twitter.com/arfon"
+  - i18n: slides
+    icon: menu
+    url: https://www.icloud.com/iclouddrive/0jCKjsIsun9BOCQNLYAJECufw#2021-06-16-JOSS    
 ---
 
 ### Journal of Open Source: Where Open Source meets academic peer review
