@@ -13,6 +13,9 @@ buttons:
   - i18n: twitter
     icon: twitter
     url: "https://twitter.com/sianbasker"
+  - i18n: slides
+    icon: menu
+    url: Coding%20in%20the%20Open%20Data%20Orchard%20and%20Data%20Maturity%20June%202021%20v1.pdf
 ---
 
 ### Data Maturity – A Fruitful Journey for the Not-for-Profit Sector
